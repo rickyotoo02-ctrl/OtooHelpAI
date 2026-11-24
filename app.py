@@ -8,7 +8,7 @@ st.set_page_config(
     page_icon="📚"
 )
 
-st.title("AI Student Learning Assistant")
+st.title("OtooHelpAI")
 st.caption("Your personal AI-powered study companion")
 st.warning(
     "AI-generated content may contain inaccuracies. "

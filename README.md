@@ -1,5 +1,4 @@
-# AI Student Learning Assistant
-
+# OtooHelpAI — AI Student Learning Assistant
 ## Overview
 An AI-powered educational application designed to help students understand complex concepts, generate study materials, and test their knowledge through interactive quizzes.
 
