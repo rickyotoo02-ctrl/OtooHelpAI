@@ -57,3 +57,13 @@ Learning history is stored locally in an unencrypted JSON file. Quiz results are
 - Personalized study recommendations
 - Quiz performance tracking
 - AI response accuracy evaluation
+## Application Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### AI-Generated Study Notes
+![Study Notes](screenshots/study-notes.png)
+
+### Interactive Quiz
+![Interactive Quiz](screenshots/quiz.png)
