@@ -4,12 +4,12 @@ import json
 from pathlib import Path
 
 st.set_page_config(
-    page_title="AI Student Learning Assistant",
+    page_title="OtooHelpAI",
     page_icon="📚"
 )
 
 st.title("OtooHelpAI")
-st.caption("Your personal AI-powered study companion")
+st.caption("Your personal AI-powered study brotha")
 st.warning(
     "AI-generated content may contain inaccuracies. "
     "Always verify important information with reliable sources."
